@@ -1,1 +1,1 @@
-# es6
+# Atividades ECMAScript 6
